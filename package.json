@@ -1,0 +1,23 @@
+{
+  "name": "createapi",
+  "version": "1.0.0",
+  "description": "demo api web",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "json-serve"
+  ],
+  "author": "stella",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "query-string": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

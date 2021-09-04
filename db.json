@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Men"
+    },
+    {
+      "id": 2,
+      "name": "Women"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "name": "Shoe",
+      "categoryId": 1,
+      "salePrice": 15000000
+    },
+    {
+      "id": 2,
+      "name": "T-shirt",
+      "categoryId": 1,
+      "salePrice": 5000000
+    },
+    {
+      "id": 3,
+      "name": "Shoe Pink",
+      "categoryId": 2,
+      "salePrice": 15600000
+    },
+    {
+      "id": 4,
+      "name": "T-shirt",
+      "categoryId": 2,
+      "salePrice": 3500000
+    }
+  ]
+}
