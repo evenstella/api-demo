@@ -33,6 +33,29 @@
       "name": "T-shirt",
       "categoryId": 2,
       "salePrice": 3500000
-    }
+    },
+    {
+        "id": 5,
+        "productId": null,
+        "title": null,
+        "description": "",
+        "created_by": null,
+        "updated_by": null,
+        "created_at": "",
+        "updated_at": "",
+        "name": "KHẨU TRANG",
+        "shortDescription": "",
+        "originalPrice": 8001,
+        "salePrice": 8001,
+        "isPromotion": false,
+        "promotionPercent": 0,
+        "isFreeShip": false,
+        "category": {
+            "id": 1,
+            "name": "men",
+            "searchTerm": "menu"
+        },
+        "thumbnail": null
+    }  
   ]
 }
