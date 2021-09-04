@@ -50,11 +50,7 @@
         "isPromotion": false,
         "promotionPercent": 0,
         "isFreeShip": false,
-        "category": {
-            "id": 1,
-            "name": "men",
-            "searchTerm": "menu"
-        },
+        "categoryId": 1,
         "thumbnail": null
     }  
   ]
