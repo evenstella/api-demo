@@ -12,46 +12,143 @@
   "Products": [
     {
       "id": 1,
-      "name": "Shoe",
-      "categoryId": 1,
-      "salePrice": 15000000
+      "productId": 14004,
+      "title": null,
+      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Women's Wool Dasher Mizzles - Mid",
+      "shortDescription": "",
+      "originalPrice": 150,
+      "salePrice": 150,
+      "isPromotion": false,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": null,
+      "isFreeShip": false,
+      "categoryId": 2,
+      "thumbnail": "product-image-1.jpeg",
+      "thumbnailList": [
+        "product-image-2.jpeg",
+        "product-image-3.jpeg"
+      ]
     },
     {
       "id": 2,
-      "name": "T-shirt",
-      "categoryId": 1,
-      "salePrice": 5000000
+      "productId": 14005,
+      "title": null,
+      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Women's Wool Dasher",
+      "shortDescription": "",
+      "originalPrice": 160,
+      "salePrice": 140,
+      "isPromotion": true,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": 12.5,
+      "isFreeShip": true,
+      "categoryId": 2,
+      "thumbnail": "product-image-4.jpeg",
+      "thumbnailList": [
+        "product-image-4.jpeg",
+        "product-image-3.jpeg"
+      ]
     },
     {
-      "id": 3,
-      "name": "Shoe Pink",
+      "id": 2,
+      "productId": 14006,
+      "title": null,
+      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Women's Wool Dasher - Mid",
+      "shortDescription": "",
+      "originalPrice": 160,
+      "salePrice": 120,
+      "isPromotion": true,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": 25,
+      "isFreeShip": true,
       "categoryId": 2,
-      "salePrice": 15600000
+      "thumbnail": "product-image-3.jpeg",
+      "thumbnailList": [
+        "product-image-2.jpeg",
+        "product-image-3.jpeg"
+      ]
     },
     {
       "id": 4,
-      "name": "T-shirt",
+      "productId": 14007,
+      "title": null,
+      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Women's Woof",
+      "shortDescription": "",
+      "originalPrice": 160,
+      "salePrice": 160,
+      "isPromotion": false,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": null,
+      "isFreeShip": true,
       "categoryId": 2,
-      "salePrice": 3500000
+      "thumbnail": "product-image-2.jpeg",
+      "thumbnailList": [
+        "product-image-2.jpeg",
+        "product-image-4.jpeg"
+      ]
     },
     {
-        "id": 5,
-        "productId": null,
-        "title": null,
-        "description": "",
-        "created_by": null,
-        "updated_by": null,
-        "created_at": "",
-        "updated_at": "",
-        "name": "KHẨU TRANG",
-        "shortDescription": "",
-        "originalPrice": 8001,
-        "salePrice": 8001,
-        "isPromotion": false,
-        "promotionPercent": 0,
-        "isFreeShip": false,
-        "categoryId": 1,
-        "thumbnail": null
-    }  
+      "id": 5,
+      "productId": 14001,
+      "title": null,
+      "description": "<div><p>Our most technical shoe yet, the Tree Dasher reimagines the traditional running shoe with natural materials engineered for serious performance. Made in Shenzhen, China + Hai Phong, Vietnam</p><ul><li>Heel Drop: 7mm (Forefoot: 15.5mm, Heel: 22.5mm)</li><li>Type: Neutral, Cushioned, Light Stability Running Shoe</li></ul></div>",
+      "name": "Men's Tree Dashers",
+      "shortDescription": "",
+      "originalPrice": 125,
+      "salePrice": 125,
+      "isPromotion": false,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": 0,
+      "isFreeShip": false,
+      "categoryId": 1,
+      "thumbnail": "product-image-1.jpeg",
+      "thumbnailList": [
+        "product-image-2.jpeg",
+        "product-image-3.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "productId": 14002,
+      "title": null,
+      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Men's Wool Dasher Mizzles - Mid",
+      "shortDescription": "",
+      "originalPrice": 150,
+      "salePrice": 120,
+      "isPromotion": true,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": 20,
+      "isFreeShip": true,
+      "categoryId": 1,
+      "thumbnail": "product-image-4.jpeg",
+      "thumbnailList": [
+        "product-image-2.jpeg",
+        "product-image-3.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "productId": 14003,
+      "title": null,
+      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Men's Wool Dasher Mizzles - Small",
+      "shortDescription": "",
+      "originalPrice": 150,
+      "salePrice": 130,
+      "isPromotion": true,
+      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "promotionPercent": 13,
+      "isFreeShip": true,
+      "categoryId": 1,
+      "thumbnail": "product-image-3.jpeg",
+      "thumbnailList": [
+        "product-image-1.jpeg",
+        "product-image-3.jpeg"
+      ]
+    } 
   ]
 }
