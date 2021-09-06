@@ -1,4 +1,50 @@
 {
+  "menuNav": [
+    {
+      "mainMenu": [
+        {
+          "id": 1,
+          "name": "new in",
+          "link": "new-in"
+        },
+        {
+          "id": 2,
+          "name": "designers",
+          "link": "designers"
+        },
+        {
+          "id": 3,
+          "name": "baby",
+          "link": "baby"
+        },
+        {
+          "id": 4,
+          "name": "boy",
+          "link": "boy"
+        },
+        {
+          "id": 5,
+          "name": "girl",
+          "link": "girl"
+        }
+        {
+          "id": 6,
+          "name": "shoes",
+          "link": "shoes"
+        }
+        {
+          "id": 7,
+          "name": "Lifestyle",
+          "link": "Lifestyle"
+        },
+        {
+          "id": 8,
+          "name": "Outlet",
+          "link": "Outlet"
+        }
+      ]
+    }
+  ],
   "categories": [
     {
       "id": 1,
