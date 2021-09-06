@@ -43,6 +43,246 @@
           "link": "Outlet"
         }
       ]
+    },
+    {
+      "subMainMenu": [
+        {
+          "id": 1,
+          "categoryParent": 2,
+          "image": "/subimage-2.jpeg",
+          "heading": "VIEW",
+          "subheading": "Full a-z list",
+          "subType": [
+            {
+              "id" : 1,
+              "name": "Shop by Brand",
+              "type": "brand",
+              "list": [
+                {
+                  "id": 1,
+                  "name": "Gucci",
+                  "link": "/gucci"
+                },
+                {
+                  "id": 1,
+                  "name": "Molo",
+                  "link": "/molo"
+                },
+                {
+                  "id": 1,
+                  "name": "Gucci 2",
+                  "link": "/gucci"
+                },
+                {
+                  "id": 1,
+                  "name": "Gucci 3",
+                  "link": "/gucci"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "baby",
+          "categoryParent": 3,
+          "image": "/subimage-3.jpeg",
+          "heading": "Discover",
+          "subheading": "Baby wear",
+          "subType": [
+            {
+              "id" : 1,
+              "name": "Shop by Type",
+              "type": "type",
+              "list": [
+                {
+                  "id": 1,
+                  "name": "Gucci",
+                  "link": "/gucci"
+                },
+                {
+                  "id": 1,
+                  "name": "Molo",
+                  "link": "/molo"
+                },
+                {
+                  "id": 1,
+                  "name": "Gucci 2",
+                  "link": "/gucci"
+                },
+                {
+                  "id": 1,
+                  "name": "Gucci 3",
+                  "link": "/gucci"
+                }
+              ]
+            },
+            {
+              "id" : 2,
+              "type": "age",
+              "name": "Shop by Age",
+              "list": [
+                {
+                  "id": 1,
+                  "name": "0 month",
+                  "link": "/0-month"
+                },
+                {
+                  "id": 1,
+                  "name": "1 month",
+                  "link": "/1-month"
+                },
+                {
+                  "id": 1,
+                  "name": "2-month",
+                  "link": "/2-month"
+                },
+                {
+                  "id": 1,
+                  "name": "Gucci 3",
+                  "link": "/gucci"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "footer": [
+        {
+          "id": 1,
+          "name": "About Us",
+          "link": "about-us"
+        },
+        {
+          "id": 2,
+          "name": "Jobs",
+          "link": "/jobs"
+        },
+        {
+          "id": 3,
+          "name": "Delivery",
+          "link": "/delivery"
+        },
+        {
+          "id": 4,
+          "name": "Terms & conditions",
+          "link": "/term-and-conditions"
+        },
+        {
+          "id": 5,
+          "name": "Return Policy",
+          "link": "/return-policy"
+        },
+        {
+          "id": 6,
+          "name": "Privacy Policy",
+          "link": "/privacy-policy"
+        },
+        {
+          "id": 7,
+          "name": "Program",
+          "link": "/program"
+        },
+        {
+          "id": 8,
+          "name": "Imprint",
+          "link": "/imprint"
+        }
+      ]
+    }
+  ],
+  "Homepage": [
+    {
+      "collection": [
+        {
+          "title": null,
+          "subtitle": null,
+          "categoryList": [
+            {
+              "name": "Boy",
+              "imageUrl": "collection-1.jpeg",
+              "link": "/boy"
+            },
+            {
+              "name": "Girl",
+              "imageUrl": "collection-2.jpeg",
+              "link": "/girl"
+            },
+            {
+              "name": "Baby",
+              "imageUrl": "collection-3.jpeg",
+              "link": "/baby"
+            },
+            {
+              "name": "Shoes",
+              "imageUrl": "collection-4.jpeg",
+              "link": "/shoes"
+            }
+          ]
+        }
+      ],
+      "collectionSale": [
+        {
+          "title": "End Season sale",
+          "subtitle": null,
+          "banner": "section-1.jpeg",
+          "link-banner": "/sale",
+          "categoryList": [
+            {
+              "name": "Boy",
+              "imageUrl": "collection2-1.png",
+              "link": "/boy"
+            },
+            {
+              "name": "Girl",
+              "imageUrl": "collection2-2.png",
+              "link": "/girl"
+            },
+            {
+              "name": "Baby",
+              "imageUrl": "collection2-3.png",
+              "link": "/baby"
+            },
+            {
+              "name": "Shoes",
+              "imageUrl": "collection2-4.png",
+              "link": "/shoes"
+            }
+          ]
+        }
+      ],
+      "collectionFeature": [
+        {
+          "title": "Featuring Molo",
+          "subtitle": null,
+          "banner": "section-2.jpeg",
+          "link-banner": "/molo",
+          "categoryList": [
+            {
+              "name": "T-shirts",
+              "imageUrl": "collection1-1.png",
+              "link": "/t-shirts"
+            },
+            {
+              "name": "Accessories",
+              "imageUrl": "collection1-2.png",
+              "link": "/accessories"
+            },
+            {
+              "name": "Dresses",
+              "imageUrl": "collection1-3.png",
+              "link": "/dresses"
+            },
+            {
+              "name": "Sweaters",
+              "imageUrl": "collection1-4.png",
+              "link": "/sweaters"
+            }
+          ]
+        }
+      ]
     }
   ],
   "categories": [
