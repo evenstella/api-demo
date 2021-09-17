@@ -109,6 +109,48 @@
       ]
     },
     {
+      "id": 7,
+      "productId": 14002,
+      "title": null,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Đầm công chúa cho Bé Gái 2",
+      "originalPrice": 300,
+      "salePrice": 200,
+      "isPromotion": true,
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>Sản phẩm được may từ vải cotton mềm mại cho phép bé thoải mái chơi đùa, vận động mà không cảm thấy khó chịu. Bên cạnh đó, chất liệu cotton không gây kích ứng da và có khả năng thấm hút mồ hôi tốt nên Mẹ không phải lo lắng bé yêu bị nổi rôm, tuyệt đối an toàn khi sử dụng.</p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p><p><strong><em>Sản xuất tại:&nbsp;</em></strong>Thái Lan</p><p><strong><em>Chất liệu:&nbsp;</em></strong>cotton</p><p>&nbsp;</p><p><strong>BẢO QUẢN SẢN PHẨM</strong></p><p>Không giặt với nước nóng.</p><p>Không dùng thuốc tẩy, hóa chất.</p><p>Ủi ở nhiệt độ thấp 70˚C - 90˚C.</p><p>Không giặt chung với quần áo sẫm màu.&nbsp;</p></div></div></div>",
+      "promotionPercent": 33.3,
+      "isFreeShip": true,
+      "isBestseller": true,
+      "isNew": true,
+      "categoryId": 1,
+      "images": [
+        "pr-image-1-2.jpg",
+        "pr-image-1-3.jpg",
+        "pr-image-1-1.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "productId": 14003,
+      "title": null,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Đầm công chúa cho Bé Gái 3",
+      "originalPrice": 150,
+      "salePrice": 150,
+      "isPromotion": false,
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>Sản phẩm được may từ vải cotton mềm mại cho phép bé thoải mái chơi đùa, vận động mà không cảm thấy khó chịu. Bên cạnh đó, chất liệu cotton không gây kích ứng da và có khả năng thấm hút mồ hôi tốt nên Mẹ không phải lo lắng bé yêu bị nổi rôm, tuyệt đối an toàn khi sử dụng.</p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p><p><strong><em>Sản xuất tại:&nbsp;</em></strong>Thái Lan</p><p><strong><em>Chất liệu:&nbsp;</em></strong>cotton</p><p>&nbsp;</p><p><strong>BẢO QUẢN SẢN PHẨM</strong></p><p>Không giặt với nước nóng.</p><p>Không dùng thuốc tẩy, hóa chất.</p><p>Ủi ở nhiệt độ thấp 70˚C - 90˚C.</p><p>Không giặt chung với quần áo sẫm màu.&nbsp;</p></div></div></div>",
+      "promotionPercent": null,
+      "isFreeShip": true,
+      "isBestseller": true,
+      "isNew": true,
+      "categoryId": 1,
+      "images": [
+        "pr-image-1-3.jpg",
+        "pr-image-1-2.jpg",
+        "pr-image-1-1.jpg"
+      ]
+    },
+    {
       "id": 2,
       "productId": 14005,
       "title": null,
@@ -169,9 +211,9 @@
       "isFreeShip": true,
       "categoryId": 2,
       "images": [
-        "pr-image-3-2.jpeg",
-        "pr-image-3-1.jpg",
         "pr-image-3-3.jpeg",
+        "pr-image-3-1.jpg",
+        "pr-image-3-2.jpeg",
         "pr-image-3-4.jpeg"
       ]
     },
@@ -195,6 +237,28 @@
         "pr-image-3-3.jpeg",
         "pr-image-3-1.jpg",
         "pr-image-3-4.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "productId": 14008,
+      "title": null,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Set áo rời quần FM-F0056",
+      "originalPrice": 600,
+      "salePrice": 450,
+      "isNew": false,
+      "isPromotion": true,
+      "isBestseller": true,
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
+      "promotionPercent": 25,
+      "isFreeShip": true,
+      "categoryId": 2,
+      "images": [
+        "pr-image-3-4.jpeg",
+        "pr-image-3-3.jpeg",
+        "pr-image-3-1.jpg",
+        "pr-image-3-2.jpeg"
       ]
     }
   ]
