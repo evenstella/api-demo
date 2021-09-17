@@ -193,106 +193,14 @@
       ]
     }
   ],
-  "Homepage": [
-    {
-      "collection": [
-        {
-          "title": null,
-          "subtitle": null,
-          "categoryList": [
-            {
-              "name": "Boy",
-              "imageUrl": "collection-1.jpeg",
-              "link": "/boy"
-            },
-            {
-              "name": "Girl",
-              "imageUrl": "collection-2.jpeg",
-              "link": "/girl"
-            },
-            {
-              "name": "Baby",
-              "imageUrl": "collection-3.jpeg",
-              "link": "/baby"
-            },
-            {
-              "name": "Shoes",
-              "imageUrl": "collection-4.jpeg",
-              "link": "/shoes"
-            }
-          ]
-        }
-      ],
-      "collectionSale": [
-        {
-          "title": "End Season sale",
-          "subtitle": null,
-          "banner": "section-1.jpeg",
-          "link-banner": "/sale",
-          "categoryList": [
-            {
-              "name": "Boy",
-              "imageUrl": "collection2-1.png",
-              "link": "/boy"
-            },
-            {
-              "name": "Girl",
-              "imageUrl": "collection2-2.png",
-              "link": "/girl"
-            },
-            {
-              "name": "Baby",
-              "imageUrl": "collection2-3.png",
-              "link": "/baby"
-            },
-            {
-              "name": "Shoes",
-              "imageUrl": "collection2-4.png",
-              "link": "/shoes"
-            }
-          ]
-        }
-      ],
-      "collectionFeature": [
-        {
-          "title": "Featuring Molo",
-          "subtitle": null,
-          "banner": "section-2.jpeg",
-          "link-banner": "/molo",
-          "categoryList": [
-            {
-              "name": "T-shirts",
-              "imageUrl": "collection1-1.png",
-              "link": "/t-shirts"
-            },
-            {
-              "name": "Accessories",
-              "imageUrl": "collection1-2.png",
-              "link": "/accessories"
-            },
-            {
-              "name": "Dresses",
-              "imageUrl": "collection1-3.png",
-              "link": "/dresses"
-            },
-            {
-              "name": "Sweaters",
-              "imageUrl": "collection1-4.png",
-              "link": "/sweaters"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "categories": [
     {
       "id": 1,
-      "name": "Men"
+      "name": "Bé Gái"
     },
     {
       "id": 2,
-      "name": "Women"
+      "name": "Bé Trai"
     }
   ],
   "Products": [
@@ -300,141 +208,101 @@
       "id": 1,
       "productId": 14004,
       "title": null,
-      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Women's Wool Dasher Mizzles - Mid",
-      "shortDescription": "",
-      "originalPrice": 150,
-      "salePrice": 150,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Đầm công chúa cho Bé Gái",
+      "originalPrice": 345,
+      "salePrice": 345,
       "isPromotion": false,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>Sản phẩm được may từ vải cotton mềm mại cho phép bé thoải mái chơi đùa, vận động mà không cảm thấy khó chịu. Bên cạnh đó, chất liệu cotton không gây kích ứng da và có khả năng thấm hút mồ hôi tốt nên Mẹ không phải lo lắng bé yêu bị nổi rôm, tuyệt đối an toàn khi sử dụng.</p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p><p><strong><em>Sản xuất tại:&nbsp;</em></strong>Thái Lan</p><p><strong><em>Chất liệu:&nbsp;</em></strong>cotton</p><p>&nbsp;</p><p><strong>BẢO QUẢN SẢN PHẨM</strong></p><p>Không giặt với nước nóng.</p><p>Không dùng thuốc tẩy, hóa chất.</p><p>Ủi ở nhiệt độ thấp 70˚C - 90˚C.</p><p>Không giặt chung với quần áo sẫm màu.&nbsp;</p></div></div></div>",
       "promotionPercent": null,
       "isFreeShip": false,
-      "categoryId": 2,
-      "thumbnail": "product-image-1.jpeg",
-      "thumbnailList": [
-        "product-image-2.jpeg",
-        "product-image-3.jpeg"
+      "categoryId": 1,
+      "images": [
+        "pr-image-1-1.jpeg",
+        "pr-image-1-2.jpeg",
+        "pr-image-1-3.jpeg"
       ]
     },
     {
       "id": 2,
       "productId": 14005,
       "title": null,
-      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Women's Wool Dasher",
-      "shortDescription": "",
-      "originalPrice": 160,
-      "salePrice": 140,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Đầm Công Chúa Cho Bé Gái",
+      "originalPrice": 400,
+      "salePrice": 350,
       "isPromotion": true,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p><span>Đầm maxi họa tiết in hoa cúc vàng cho bé, cùng tông vàng đang là màu chủ đạo của năm nay</span><span></span></p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p></div></div></div>",
       "promotionPercent": 12.5,
       "isFreeShip": true,
-      "categoryId": 2,
-      "thumbnail": "product-image-4.jpeg",
-      "thumbnailList": [
-        "product-image-4.jpeg",
-        "product-image-3.jpeg"
+      "categoryId": 1,
+      "images": [
+        "pr-image-2-1.jpeg",
+        "pr-image-2-2.jpeg",
+        "pr-image-2-3.jpeg",
+        "pr-image-2-4.jpeg"
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "productId": 14006,
       "title": null,
-      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Women's Wool Dasher - Mid",
-      "shortDescription": "",
-      "originalPrice": 160,
-      "salePrice": 120,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Body tam giác tay ngắn",
+      "originalPrice": 315,
+      "salePrice": 289,
       "isPromotion": true,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
-      "promotionPercent": 25,
-      "isFreeShip": true,
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
+      "promotionPercent": 8,
+      "isFreeShip": false,
       "categoryId": 2,
-      "thumbnail": "product-image-3.jpeg",
-      "thumbnailList": [
-        "product-image-2.jpeg",
-        "product-image-3.jpeg"
+      "images": [
+        "pr-image-3-1.jpeg",
+        "pr-image-3-2.jpeg",
+        "pr-image-3-3.jpeg",
+        "pr-image-3-4.jpeg"
       ]
     },
     {
       "id": 4,
       "productId": 14007,
       "title": null,
-      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Women's Woof",
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Set áo rời quần DM-A2",
       "shortDescription": "",
-      "originalPrice": 160,
-      "salePrice": 160,
+      "originalPrice": 610,
+      "salePrice": 610,
       "isPromotion": false,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
       "promotionPercent": null,
       "isFreeShip": true,
       "categoryId": 2,
-      "thumbnail": "product-image-2.jpeg",
-      "thumbnailList": [
-        "product-image-2.jpeg",
-        "product-image-4.jpeg"
+      "images": [
+        "pr-image-3-2.jpeg",
+        "pr-image-3-1.jpeg",
+        "pr-image-3-3.jpeg",
+        "pr-image-3-4.jpeg"
       ]
     },
     {
       "id": 5,
       "productId": 14001,
       "title": null,
-      "description": "<div><p>Our most technical shoe yet, the Tree Dasher reimagines the traditional running shoe with natural materials engineered for serious performance. Made in Shenzhen, China + Hai Phong, Vietnam</p><ul><li>Heel Drop: 7mm (Forefoot: 15.5mm, Heel: 22.5mm)</li><li>Type: Neutral, Cushioned, Light Stability Running Shoe</li></ul></div>",
-      "name": "Men's Tree Dashers",
-      "shortDescription": "",
-      "originalPrice": 125,
-      "salePrice": 125,
-      "isPromotion": false,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
-      "promotionPercent": 0,
-      "isFreeShip": false,
-      "categoryId": 1,
-      "thumbnail": "product-image-1.jpeg",
-      "thumbnailList": [
-        "product-image-2.jpeg",
-        "product-image-3.jpeg"
-      ]
-    },
-    {
-      "id": 6,
-      "productId": 14002,
-      "title": null,
-      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Men's Wool Dasher Mizzles - Mid",
-      "shortDescription": "",
-      "originalPrice": 150,
-      "salePrice": 120,
+      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
+      "name": "Set áo rời quần FM-F0045",
+      "originalPrice": 524,
+      "salePrice": 467.8,
       "isPromotion": true,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
-      "promotionPercent": 20,
+      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
+      "promotionPercent": 11,
       "isFreeShip": true,
-      "categoryId": 1,
-      "thumbnail": "product-image-4.jpeg",
-      "thumbnailList": [
-        "product-image-2.jpeg",
-        "product-image-3.jpeg"
+      "categoryId": 2,
+      "images": [
+        "pr-image-3-2.jpeg",
+        "pr-image-3-3.jpeg",
+        "pr-image-3-1.jpeg",
+        "pr-image-3-4.jpeg"
       ]
-    },
-    {
-      "id": 7,
-      "productId": 14003,
-      "title": null,
-      "description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Men's Wool Dasher Mizzles - Small",
-      "shortDescription": "",
-      "originalPrice": 150,
-      "salePrice": 130,
-      "isPromotion": true,
-      "core-features": "<ul><li>Renewable Materials</li><li>Machine Washable</li><li>Minimizes Odor</li></ul>",
-      "promotionPercent": 13,
-      "isFreeShip": true,
-      "categoryId": 1,
-      "thumbnail": "product-image-3.jpeg",
-      "thumbnailList": [
-        "product-image-1.jpeg",
-        "product-image-3.jpeg"
-      ]
-    } 
+    }
   ]
 }
