@@ -4,43 +4,28 @@
       "mainMenu": [
         {
           "id": 1,
-          "name": "new in",
-          "link": "new-in"
+          "name": "trang chủ",
+          "link": "trang-chu"
         },
         {
           "id": 2,
-          "name": "designers",
-          "link": "designers"
+          "name": "bé gái",
+          "link": "be-gai"
         },
         {
           "id": 3,
-          "name": "baby",
-          "link": "baby"
+          "name": "bé trai",
+          "link": "be-trai"
         },
         {
           "id": 4,
-          "name": "boy",
-          "link": "boy"
+          "name": "giới thiệu",
+          "link": "gioi-thieu"
         },
         {
           "id": 5,
-          "name": "girl",
-          "link": "girl"
-        },
-        {
-          "id": 6,
-          "name": "shoes",
-          "link": "shoes"
-        },
-        {
-          "id": 7,
-          "name": "Lifestyle",
-          "link": "Lifestyle"
-        },
-        {
-          "id": 8,
-          "name": "Outlet",
-          "link": "Outlet"
+          "name": "liên hệ",
+          "link": "lien-he"
         }
       ]
     },
@@ -49,146 +34,44 @@
         {
           "id": 1,
           "categoryParent": 2,
-          "image": "/subimage-2.jpeg",
-          "heading": "VIEW",
-          "subheading": "Full a-z list",
-          "subType": [
+          "submenus": [
             {
               "id" : 1,
-              "name": "Shop by Brand",
-              "type": "brand",
-              "list": [
-                {
-                  "id": 1,
-                  "name": "Gucci",
-                  "link": "/gucci"
-                },
-                {
-                  "id": 1,
-                  "name": "Molo",
-                  "link": "/molo"
-                },
-                {
-                  "id": 1,
-                  "name": "Gucci 2",
-                  "link": "/gucci"
-                },
-                {
-                  "id": 1,
-                  "name": "Gucci 3",
-                  "link": "/gucci"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "name": "baby",
-          "categoryParent": 3,
-          "image": "/subimage-3.jpeg",
-          "heading": "Discover",
-          "subheading": "Baby wear",
-          "subType": [
-            {
-              "id" : 1,
-              "name": "Shop by Type",
-              "type": "type",
-              "list": [
-                {
-                  "id": 1,
-                  "name": "Gucci",
-                  "link": "/gucci"
-                },
-                {
-                  "id": 1,
-                  "name": "Molo",
-                  "link": "/molo"
-                },
-                {
-                  "id": 1,
-                  "name": "Gucci 2",
-                  "link": "/gucci"
-                },
-                {
-                  "id": 1,
-                  "name": "Gucci 3",
-                  "link": "/gucci"
-                }
-              ]
+              "name": "Váy",
+              "link": "vay"
             },
             {
               "id" : 2,
-              "type": "age",
-              "name": "Shop by Age",
-              "list": [
-                {
-                  "id": 1,
-                  "name": "0 month",
-                  "link": "/0-month"
-                },
-                {
-                  "id": 1,
-                  "name": "1 month",
-                  "link": "/1-month"
-                },
-                {
-                  "id": 1,
-                  "name": "2-month",
-                  "link": "/2-month"
-                },
-                {
-                  "id": 1,
-                  "name": "Gucci 3",
-                  "link": "/gucci"
-                }
-              ]
+              "name": "Áo",
+              "link": "ao-nu"
+            },
+            {
+              "id" : 3,
+              "name": "Phụ Kiện",
+              "link": "phu-kien-nu"
             }
           ]
-        }
-      ]
-    },
-    {
-      "footer": [
-        {
-          "id": 1,
-          "name": "About Us",
-          "link": "about-us"
         },
         {
           "id": 2,
-          "name": "Jobs",
-          "link": "/jobs"
-        },
-        {
-          "id": 3,
-          "name": "Delivery",
-          "link": "/delivery"
-        },
-        {
-          "id": 4,
-          "name": "Terms & conditions",
-          "link": "/term-and-conditions"
-        },
-        {
-          "id": 5,
-          "name": "Return Policy",
-          "link": "/return-policy"
-        },
-        {
-          "id": 6,
-          "name": "Privacy Policy",
-          "link": "/privacy-policy"
-        },
-        {
-          "id": 7,
-          "name": "Program",
-          "link": "/program"
-        },
-        {
-          "id": 8,
-          "name": "Imprint",
-          "link": "/imprint"
+          "categoryParent": 3,
+          "submenus": [
+            {
+              "id" : 1,
+              "name": "Quần",
+              "link": "quan-nam"
+            },
+            {
+              "id" : 2,
+              "name": "Áo",
+              "link": "ao-nam"
+            },
+            {
+              "id" : 3,
+              "name": "Phụ Kiện",
+              "link": "phu-kien-nam"
+            }
+          ]
         }
       ]
     }
