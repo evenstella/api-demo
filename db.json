@@ -5,17 +5,17 @@
         {
           "id": 1,
           "name": "trang chủ",
-          "link": "trang-chu"
+          "link": "/"
         },
         {
           "id": 2,
           "name": "bé gái",
-          "link": "be-gai"
+          "link": "/1"
         },
         {
           "id": 3,
           "name": "bé trai",
-          "link": "be-trai"
+          "link": "/2"
         },
         {
           "id": 4,
