@@ -1,265 +1,225 @@
 {
-  "menuNav": [
+  "Homepage" : [
     {
-      "mainMenu": [
-        {
-          "id": 1,
-          "name": "trang chủ",
-          "link": "/"
+      "BrandList" : {
+        "Button" : "All Designers",
+        "Items" : {
+          "Brand1" : {
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-1.jpeg?alt=media&token=f3db9337-456f-408a-8df8-231bad1026f6",
+            "Link" : "/"
+          },
+          "Brand2" : {
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-2.jpeg?alt=media&token=cca2f35c-0a3a-4114-a4e3-1bf4caa96578",
+            "Link" : "/"
+          },
+          "Brand3" : {
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-3.jpeg?alt=media&token=1f9cf1dc-fb91-4136-a84a-5fa3f646efaf",
+            "Link" : "/"
+          },
+          "Brand4" : {
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-4.jpeg?alt=media&token=ff194f83-ea64-47ac-a686-96f8eaeda44e",
+            "Link" : "/"
+          },
+          "Brand5" : {
+            "Image" : "/",
+            "Link" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-5.jpeg?alt=media&token=34ee816f-99a0-41d0-abde-2300ee78d5ea"
+          },
+          "Brand6" : {
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-6.jpeg?alt=media&token=2c49c801-d6a0-43aa-8072-706053c152af",
+            "Link" : "/"
+          },
+          "Brand7" : {
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-7.jpeg?alt=media&token=9ba907c1-c8ab-4163-b952-773abc0c3f67",
+            "Link" : "/"
+          }
         },
-        {
-          "id": 2,
-          "name": "bé gái",
-          "link": "/1"
+        "Link" : "/",
+        "Title" : "Our Designs"
+      },
+      "DiscoverNew" : {
+        "Items" : {
+          "Item1" : {
+            "Button" : "Shop The edit",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fdiscover1.jpeg?alt=media&token=7f9f1c6c-7933-4fc9-b66c-1c64529a12a1",
+            "Link" : "/",
+            "Subtitle" : "The TV host, blogger and fashionable mum-of-two shares her favourite pieces from the heritage-inspired collection.",
+            "Title" : "Louise Roe | Beatrice & George"
+          },
+          "Item2" : {
+            "Button" : "Shop the collection",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fdiscover2.jpeg?alt=media&token=6d40d015-9ae4-46c4-aa6a-5042f5655174",
+            "Link" : "/",
+            "SubTitle" : "Discover our collection of designer exclusives, made just for us and your little ones.",
+            "Title" : "Our Exclusives"
+          },
+          "Item3" : {
+            "Button" : "Shop the collection",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fdiscover3.jpeg?alt=media&token=22248915-a4d0-404e-a941-e012d5cb1a7e",
+            "Link" : "/",
+            "Subtitle" : "Adventure into autumn with Il Gufo’s beautiful range of knitwear, coats and occasion outfits.",
+            "Title" : "Il Gufo"
+          }
         },
-        {
-          "id": 3,
-          "name": "bé trai",
-          "link": "/2"
+        "Titles" : "Discover something new"
+      },
+      "HeroBanner" : {
+        "Button" : "Shop Now",
+        "Images" : {
+          "ImageDesktop" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-text-1.jpeg?alt=media&token=4b25a0db-cd7b-45a5-96a8-99b89815a19c",
+          "ImageMobile" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-text-mobile-1.webp?alt=media&token=bbe0c18e-aebf-4a94-a418-fac2a9ecde94"
         },
-        {
-          "id": 4,
-          "name": "giới thiệu",
-          "link": "gioi-thieu"
+        "Link" : "/",
+        "SubTitle" : "<p>Inspire the next generation of sports stars with game-changing activewear. Now, where to display that trophy?</p>",
+        "Title" : "On your marks . . ."
+      },
+      "ImageText" : {
+        "Button" : "Join Childrensalon Rewards",
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-text2.webp?alt=media&token=b33dd296-2612-4b49-b0ec-f278191f4d38",
+        "Link" : "/",
+        "Subtitle" : "Join our loyalty programme! Sign up to begin earning Points as you shop and enjoy exclusive rewards across our site.",
+        "Title" : "Childrensalon Rewards"
+      },
+      "ListCollection" : {
+        "Collection1" : {
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-1.jpeg?alt=media&token=e464ff81-4db4-4867-ba9b-0181e5f1bb18",
+          "Link" : "/",
+          "Name" : "Shop Girl"
         },
-        {
-          "id": 5,
-          "name": "liên hệ",
-          "link": "lien-he"
+        "Collection2" : {
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-2.jpeg?alt=media&token=ef34050c-b359-487d-8736-dcd54b575e7b",
+          "Link" : "/",
+          "Name" : "Shop Boy"
+        },
+        "Collection3" : {
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-3.jpeg?alt=media&token=a9f20948-bffa-446b-8419-c49647aad4c1",
+          "Link" : "/",
+          "Name" : "Shop Baby"
+        },
+        "Collection4" : {
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-4.jpeg?alt=media&token=07147463-0c5e-48db-9872-27e9623c0b2a",
+          "Link" : "/",
+          "Name" : "Shop Shoes"
         }
-      ]
-    },
-    {
-      "subMainMenu": [
-        {
-          "id": 1,
-          "categoryParent": 2,
-          "submenus": [
-            {
-              "id" : 1,
-              "name": "Váy",
-              "link": "vay"
-            },
-            {
-              "id" : 2,
-              "name": "Áo",
-              "link": "ao-nu"
-            },
-            {
-              "id" : 3,
-              "name": "Phụ Kiện",
-              "link": "phu-kien-nu"
-            }
-          ]
+      },
+      "OurShop" : {
+        "Items" : {
+          "Item1" : {
+            "Button" : "READ OUR STORY",
+            "Content" : "At Childrensalon, family always comes first. It inspires everything that we do.",
+            "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Ficon-home.svg?alt=media&token=f5054733-4ef6-4444-9974-8344d4322e06",
+            "Link" : "/"
+          },
+          "Item2" : {
+            "Button" : "Contact us",
+            "Content" : "We provide the very best customer service, worldwide and in over 12 languages.",
+            "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2FIcon-multilingual.svg?alt=media&token=4b796821-a4a5-47ff-aafa-044ce5399c82",
+            "Link" : "/"
+          },
+          "Item3" : {
+            "Button" : "Our Designers",
+            "Content" : "Shop the designers you know and love. Authenticity and quality are guaranteed.",
+            "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Ficon-tag.svg?alt=media&token=b9a4a853-5365-4980-bd48-84ef802c875b",
+            "Link" : "/"
+          },
+          "Item4" : {
+            "Button" : "Customer Review",
+            "Content" : "Your feedback is important to us. We enjoy hearing from every one of you.",
+            "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Ficon-star.svg?alt=media&token=a61db7f3-3d42-47bf-b6de-16158567f2a9",
+            "Link" : "/"
+          }
         },
-        {
-          "id": 2,
-          "categoryParent": 3,
-          "submenus": [
-            {
-              "id" : 1,
-              "name": "Quần",
-              "link": "quan-nam"
-            },
-            {
-              "id" : 2,
-              "name": "Áo",
-              "link": "ao-nam"
-            },
-            {
-              "id" : 3,
-              "name": "Phụ Kiện",
-              "link": "phu-kien-nam"
-            }
-          ]
+        "Title" : "It's nice to meet you..."
+      },
+      "OurStories" : {
+        "Items" : {
+          "Item1" : {
+            "Button" : "Discover",
+            "Content" : "Discover the latest title in our series where fun, facts and fiction come to life in the pages of our recommended reads.",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog1.webp?alt=media&token=96fd4782-81e7-4856-8c0a-0fa85b5b8e2b",
+            "Link" : "/",
+            "Title" : "OUR BOOK CORNER IS BACK"
+          },
+          "Item2" : {
+            "Button" : "Read more",
+            "Content" : "Discover the benefits of baby bathtime, joined by a few companions from the Liewood collection.",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog2.webp?alt=media&token=c9c92dc0-2ce9-4b09-930d-7550b404f858",
+            "Link" : "/",
+            "Title" : "BABY BATHTIME WITH LIEWOOD"
+          },
+          "Item3" : {
+            "Button" : "Discover",
+            "Content" : "From eggs to avocados, discover healthy snacks to fuel their minds and bodies for the new school year.",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog3.webp?alt=media&token=fef5d2f4-e3e5-44ff-8522-e2d922b3c292",
+            "Link" : "/",
+            "Title" : "SMART SNACKS FOR KIDS"
+          },
+          "Item4" : {
+            "Button" : "Read more",
+            "Content" : "Find out what makes our new collection of baby clothing and accessories as kind as it is cute.",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog4.webp?alt=media&token=b0c07377-b881-4995-b01d-1e18f2e4bdc3",
+            "Link" : "/",
+            "Title" : "CHILDRENSALON ESSENTIALS"
+          }
+        },
+        "Title" : "Our Latest Stories"
+      },
+      "Slider" : {
+        "Slider1" : {
+          "Button" : "Shop Baby",
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-3.jpeg?alt=media&token=8db7fc69-b292-4157-80fb-a5b477d4cd6f",
+          "Link" : "/",
+          "SubTitle" : "<p>Discover&nbsp;<em>our</em> new arrivals for <em>your</em> new arrivals. We’ve got everything on their nursery checklist to dress newborns, babies and toddlers snugly for autumn to winter.</p>",
+          "Title" : "A Is for Adorable"
+        },
+        "Slider2" : {
+          "Button" : "Shop Now",
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-home.jpeg?alt=media&token=063ee4f1-9a12-421a-a3fb-ef97c62b12ff",
+          "Link" : "/",
+          "SubTitle" : "<p>Take their outfits from weekday to weekend in style with the latest from Levi’s. Shop backpacks, jackets, sportswear and so much more.</p>",
+          "Title" : "Let’s hear it for Levi’s"
+        },
+        "Slider3" : {
+          "Button" : "Shop Girl",
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-girl.jpeg?alt=media&token=e0ed1af3-5509-46e7-a10f-a94d08570edd",
+          "Link" : "/",
+          "SubTitle" : "<p>Embrace the changing seasons with the latest looks from our family of designers. Warm coats, cosy fabrics and lots of layers — there’s so much for her to explore.</p>",
+          "Title" : "Adventure Into Autumn"
+        },
+        "Slider4" : {
+          "Button" : "Shop Boy",
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-boy.jpeg?alt=media&token=bd098d34-9740-4570-b107-886c1fd928a0",
+          "Link" : "/",
+          "SubTitle" : "<p>What better way to welcome the new season than with our latest arrivals? Discover lightweight layers, chunky knits, outerwear, boots and lots more.</p>",
+          "Title" : "Autumn Has Landed"
+        },
+        "Slider5" : {
+          "Button" : "Shop Teen",
+          "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-teen.jpeg?alt=media&token=0212f397-cebb-4e37-9429-da0ff6603969",
+          "Link" : "/",
+          "SubTitle" : "<p>Take their new-season wardrobe to new heights of style. Explore our designer collections for the latest in teen clothing, footwear and accessories, plus the outerwear labels they want to be seen in — this season, the sky’s the limit.</p>",
+          "Title" : "AUTUMN / WINTER ’21"
         }
-      ]
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Bé Gái"
-    },
-    {
-      "id": 2,
-      "name": "Bé Trai"
-    }
-  ],
-  "Products": [
-    {
-      "id": 1,
-      "productId": 14004,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Đầm công chúa cho Bé Gái",
-      "originalPrice": 345,
-      "salePrice": 345,
-      "isPromotion": false,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>Sản phẩm được may từ vải cotton mềm mại cho phép bé thoải mái chơi đùa, vận động mà không cảm thấy khó chịu. Bên cạnh đó, chất liệu cotton không gây kích ứng da và có khả năng thấm hút mồ hôi tốt nên Mẹ không phải lo lắng bé yêu bị nổi rôm, tuyệt đối an toàn khi sử dụng.</p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p><p><strong><em>Sản xuất tại:&nbsp;</em></strong>Thái Lan</p><p><strong><em>Chất liệu:&nbsp;</em></strong>cotton</p><p>&nbsp;</p><p><strong>BẢO QUẢN SẢN PHẨM</strong></p><p>Không giặt với nước nóng.</p><p>Không dùng thuốc tẩy, hóa chất.</p><p>Ủi ở nhiệt độ thấp 70˚C - 90˚C.</p><p>Không giặt chung với quần áo sẫm màu.&nbsp;</p></div></div></div>",
-      "promotionPercent": null,
-      "isFreeShip": false,
-      "isBestseller": false,
-      "isNew": true,
-      "categoryId": 1,
-      "images": [
-        "pr-image-1-1.jpg",
-        "pr-image-1-2.jpg",
-        "pr-image-1-3.jpg"
-      ]
-    },
-    {
-      "id": 7,
-      "productId": 14002,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Đầm công chúa cho Bé Gái 2",
-      "originalPrice": 300,
-      "salePrice": 200,
-      "isPromotion": true,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>Sản phẩm được may từ vải cotton mềm mại cho phép bé thoải mái chơi đùa, vận động mà không cảm thấy khó chịu. Bên cạnh đó, chất liệu cotton không gây kích ứng da và có khả năng thấm hút mồ hôi tốt nên Mẹ không phải lo lắng bé yêu bị nổi rôm, tuyệt đối an toàn khi sử dụng.</p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p><p><strong><em>Sản xuất tại:&nbsp;</em></strong>Thái Lan</p><p><strong><em>Chất liệu:&nbsp;</em></strong>cotton</p><p>&nbsp;</p><p><strong>BẢO QUẢN SẢN PHẨM</strong></p><p>Không giặt với nước nóng.</p><p>Không dùng thuốc tẩy, hóa chất.</p><p>Ủi ở nhiệt độ thấp 70˚C - 90˚C.</p><p>Không giặt chung với quần áo sẫm màu.&nbsp;</p></div></div></div>",
-      "promotionPercent": 33.3,
-      "isFreeShip": true,
-      "isBestseller": true,
-      "isNew": true,
-      "categoryId": 1,
-      "images": [
-        "pr-image-1-2.jpg",
-        "pr-image-1-3.jpg",
-        "pr-image-1-1.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "productId": 14003,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Đầm công chúa cho Bé Gái 3",
-      "originalPrice": 150,
-      "salePrice": 150,
-      "isPromotion": false,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>Sản phẩm được may từ vải cotton mềm mại cho phép bé thoải mái chơi đùa, vận động mà không cảm thấy khó chịu. Bên cạnh đó, chất liệu cotton không gây kích ứng da và có khả năng thấm hút mồ hôi tốt nên Mẹ không phải lo lắng bé yêu bị nổi rôm, tuyệt đối an toàn khi sử dụng.</p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p><p><strong><em>Sản xuất tại:&nbsp;</em></strong>Thái Lan</p><p><strong><em>Chất liệu:&nbsp;</em></strong>cotton</p><p>&nbsp;</p><p><strong>BẢO QUẢN SẢN PHẨM</strong></p><p>Không giặt với nước nóng.</p><p>Không dùng thuốc tẩy, hóa chất.</p><p>Ủi ở nhiệt độ thấp 70˚C - 90˚C.</p><p>Không giặt chung với quần áo sẫm màu.&nbsp;</p></div></div></div>",
-      "promotionPercent": null,
-      "isFreeShip": true,
-      "isBestseller": true,
-      "isNew": true,
-      "categoryId": 1,
-      "images": [
-        "pr-image-1-3.jpg",
-        "pr-image-1-2.jpg",
-        "pr-image-1-1.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "productId": 14005,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Đầm Công Chúa Cho Bé Gái",
-      "originalPrice": 400,
-      "salePrice": 350,
-      "isNew": false,
-      "isBestseller": true,
-      "isPromotion": true,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p><span>Đầm maxi họa tiết in hoa cúc vàng cho bé, cùng tông vàng đang là màu chủ đạo của năm nay</span><span></span></p><p><strong>Thiết kế thoải mái, đáng yêu</strong></p><p>Thiết kế thoải mái phối cùng họa tiết cá tính sẽ mang đến phong cách thoải mái và không kém phần thời trang cho bé của bạn. Ngoài ra,&nbsp;các đường nối, đường cuốn biên trên quần áo không bị nổi cộm gây khó chịu và ngứa da bé cho phép bé vận động dễ dàng.</p></div></div></div>",
-      "promotionPercent": 12.5,
-      "isFreeShip": true,
-      "categoryId": 1,
-      "images": [
-        "pr-image-2-1.jpg",
-        "pr-image-2-2.jpg",
-        "pr-image-2-3.jpg",
-        "pr-image-2-4.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "productId": 14006,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Body tam giác tay ngắn",
-      "originalPrice": 315,
-      "salePrice": 289,
-      "isPromotion": true,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
-      "promotionPercent": 8,
-      "isFreeShip": false,
-      "isNew": false,
-      "isBestseller": true,
-      "categoryId": 2,
-      "images": [
-        "pr-image-3-1.jpg",
-        "pr-image-3-2.jpeg",
-        "pr-image-3-3.jpeg",
-        "pr-image-3-4.jpeg"
-      ]
-    },
-    {
-      "id": 4,
-      "productId": 14007,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Set áo rời quần DM-A2",
-      "shortDescription": "",
-      "originalPrice": 610,
-      "salePrice": 610,
-      "isNew": true,
-      "isBestseller": false,
-      "isPromotion": false,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
-      "promotionPercent": null,
-      "isFreeShip": true,
-      "categoryId": 2,
-      "images": [
-        "pr-image-3-3.jpeg",
-        "pr-image-3-1.jpg",
-        "pr-image-3-2.jpeg",
-        "pr-image-3-4.jpeg"
-      ]
-    },
-    {
-      "id": 5,
-      "productId": 14001,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Set áo rời quần FM-F0045",
-      "originalPrice": 524,
-      "salePrice": 467.8,
-      "isNew": false,
-      "isPromotion": true,
-      "isBestseller": true,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
-      "promotionPercent": 11,
-      "isFreeShip": true,
-      "categoryId": 2,
-      "images": [
-        "pr-image-3-2.jpeg",
-        "pr-image-3-3.jpeg",
-        "pr-image-3-1.jpg",
-        "pr-image-3-4.jpeg"
-      ]
-    },
-    {
-      "id": 8,
-      "productId": 14008,
-      "title": null,
-      "short_description": "<div><p>Take stormy weather in stride with the running shoe that uses natural materials to give you extra grip, plus a mid cut knit sock collar to keep your feet warm and dry.</p></div>",
-      "name": "Set áo rời quần FM-F0056",
-      "originalPrice": 600,
-      "salePrice": 450,
-      "isNew": false,
-      "isPromotion": true,
-      "isBestseller": true,
-      "descriptions": "<div class='product-description'><div class='title-bl'><h2>Mô tả</h2></div><div class='description-content'><div class='description-productdetail'><p>- Thiết kế và đường may tỉ mỉ, khéo léo</p><p>- Các đường nối, đường cuốn biên không bị nổi đường gân gây khó chịu và ngứa da bé. Bé sẽ cảm thấy dễ chịu và thoải mái mà không cảm thấy bị cấn hay cọ xát gây ngứa.&nbsp;</p><p>- Chất liệu 100% cotton cao cấp,&nbsp;co giãn giúp làn da thông thoáng và máu lưu thông tốt.&nbsp;</p><p>- Form rộng rãi, có thể mang bỉm (tã) bên trong cho bé.</p><p>- Thiết kế xinh xắn, nhiều màu sắc bắt mắt, dễ thương.</p><p>- Sản phẩm được sản xuất tại Việt Nam.</p><h3>Để quần áo bé sơ sinh luôn bền, mới và mềm mại:</h3><p>- Không giặt với nước nóng quá 40<sup>o</sup>C.</p><p>- Không giặt với chất tẩy mạnh.</p><p>- Có thể sấy ở nhiệt độ trung bình.</p><p>- Ủi với mặt trái của sản phẩm.</p><p>- Ủi với nhiệt độ trung bình.</p><p>- Không nên vắt sản phẩm.</p></div></div></div>",
-      "promotionPercent": 25,
-      "isFreeShip": true,
-      "categoryId": 2,
-      "images": [
-        "pr-image-3-4.jpeg",
-        "pr-image-3-3.jpeg",
-        "pr-image-3-1.jpg",
-        "pr-image-3-2.jpeg"
-      ]
+      },
+      "Testimonial" : {
+        "Items" : {
+          "Item1" : {
+            "Content" : "<div class=\"copy\"> <p>“</p><p>I just received the package thank you so much for tacking time out to reach out to me. And for the candy in the pockage. Your service is beyond my expectations. Thanks for your service.&nbsp;&nbsp;</p>”<p></p> </div>",
+            "CustomerName" : "Stella",
+            "Regional" : "United States"
+          },
+          "Item2" : {
+            "Content" : "“I was impressed with your customer service. I recently ordered on Sunday and received my order the next day! Super fast and the haribos were a nice touch.”",
+            "CustomerName" : "Racher",
+            "Regional" : "United Kingdom"
+          },
+          "Item3" : {
+            "Content" : "“Thank you very much and thanks to your great team of employees, one of the best online shops with communication between customers and employees. ”",
+            "CustomerName" : "Evan",
+            "Regional" : "Los angeles"
+          }
+        },
+        "Title" : "We love hearing from you..."
+      }
     }
   ]
 }
