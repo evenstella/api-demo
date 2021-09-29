@@ -26,8 +26,8 @@
           },
           {
             "id": "item5",
-            "Image" : "/",
-            "Link" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-5.jpeg?alt=media&token=34ee816f-99a0-41d0-abde-2300ee78d5ea"
+            "Link" : "/",
+            "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-5.jpeg?alt=media&token=34ee816f-99a0-41d0-abde-2300ee78d5ea"
           },
           {
             "id": "item6",
