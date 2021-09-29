@@ -1,5 +1,5 @@
 {
-  "Homepage" : [
+  "Homepage" : 
     {
       "BrandList" : {
         "Button" : "All Designers",
@@ -163,7 +163,7 @@
         },
         "Title" : "Our Latest Stories"
       },
-      "Slider" : {
+      "Slider" : [
         "Slider1" : {
           "Button" : "Shop Baby",
           "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbanner-3.jpeg?alt=media&token=8db7fc69-b292-4157-80fb-a5b477d4cd6f",
@@ -199,7 +199,7 @@
           "SubTitle" : "<p>Take their new-season wardrobe to new heights of style. Explore our designer collections for the latest in teen clothing, footwear and accessories, plus the outerwear labels they want to be seen in — this season, the sky’s the limit.</p>",
           "Title" : "AUTUMN / WINTER ’21"
         }
-      },
+      ],
       "Testimonial" : {
         "Items" : {
           "Item1" : {
@@ -221,5 +221,4 @@
         "Title" : "We love hearing from you..."
       }
     }
-  ]
 }
