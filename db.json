@@ -3,63 +3,73 @@
     {
       "BrandList" : {
         "Button" : "All Designers",
-        "Items" : {
-          "Brand1" : {
+        "Items" : [
+          {
+            "id": "item1",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-1.jpeg?alt=media&token=f3db9337-456f-408a-8df8-231bad1026f6",
             "Link" : "/"
           },
-          "Brand2" : {
+          {
+            "id": "item2",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-2.jpeg?alt=media&token=cca2f35c-0a3a-4114-a4e3-1bf4caa96578",
             "Link" : "/"
           },
-          "Brand3" : {
+          {
+            "id": "item3",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-3.jpeg?alt=media&token=1f9cf1dc-fb91-4136-a84a-5fa3f646efaf",
             "Link" : "/"
           },
-          "Brand4" : {
+          {
+            "id": "item4",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-4.jpeg?alt=media&token=ff194f83-ea64-47ac-a686-96f8eaeda44e",
             "Link" : "/"
           },
-          "Brand5" : {
+          {
+            "id": "item5",
             "Image" : "/",
             "Link" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-5.jpeg?alt=media&token=34ee816f-99a0-41d0-abde-2300ee78d5ea"
           },
-          "Brand6" : {
+          {
+            "id": "item6",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-6.jpeg?alt=media&token=2c49c801-d6a0-43aa-8072-706053c152af",
             "Link" : "/"
           },
-          "Brand7" : {
+          {
+            "id": "item7",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fbrand-7.jpeg?alt=media&token=9ba907c1-c8ab-4163-b952-773abc0c3f67",
             "Link" : "/"
           }
-        },
+        ],
         "Link" : "/",
         "Title" : "Our Designs"
       },
       "DiscoverNew" : {
-        "Items" : {
-          "Item1" : {
+        "Items" : [
+          {
+            "id": "item1",
             "Button" : "Shop The edit",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fdiscover1.jpeg?alt=media&token=7f9f1c6c-7933-4fc9-b66c-1c64529a12a1",
             "Link" : "/",
             "Subtitle" : "The TV host, blogger and fashionable mum-of-two shares her favourite pieces from the heritage-inspired collection.",
             "Title" : "Louise Roe | Beatrice & George"
           },
-          "Item2" : {
+          {
+            "id": "item2",
             "Button" : "Shop the collection",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fdiscover2.jpeg?alt=media&token=6d40d015-9ae4-46c4-aa6a-5042f5655174",
             "Link" : "/",
             "SubTitle" : "Discover our collection of designer exclusives, made just for us and your little ones.",
             "Title" : "Our Exclusives"
           },
-          "Item3" : {
+          {
+            "id": "item3",
             "Button" : "Shop the collection",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fdiscover3.jpeg?alt=media&token=22248915-a4d0-404e-a941-e012d5cb1a7e",
             "Link" : "/",
             "Subtitle" : "Adventure into autumn with Il Gufo’s beautiful range of knitwear, coats and occasion outfits.",
             "Title" : "Il Gufo"
           }
-        },
+        ],
         "Titles" : "Discover something new"
       },
       "HeroBanner" : {
@@ -79,88 +89,100 @@
         "Subtitle" : "Join our loyalty programme! Sign up to begin earning Points as you shop and enjoy exclusive rewards across our site.",
         "Title" : "Childrensalon Rewards"
       },
-      "ListCollection" : {
-        "Collection1" : {
+      "ListCollection" : [
+        {
+          "id": "Collection1",
           "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-1.jpeg?alt=media&token=e464ff81-4db4-4867-ba9b-0181e5f1bb18",
           "Link" : "/",
           "Name" : "Shop Girl"
         },
-        "Collection2" : {
+        {
+          "id": "Collection2",
           "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-2.jpeg?alt=media&token=ef34050c-b359-487d-8736-dcd54b575e7b",
           "Link" : "/",
           "Name" : "Shop Boy"
         },
-        "Collection3" : {
+        {
+          "id": "Collection3",
           "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-3.jpeg?alt=media&token=a9f20948-bffa-446b-8419-c49647aad4c1",
           "Link" : "/",
           "Name" : "Shop Baby"
         },
-        "Collection4" : {
+        {
+          "id": "Collection4",
           "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fhp-collection-4.jpeg?alt=media&token=07147463-0c5e-48db-9872-27e9623c0b2a",
           "Link" : "/",
           "Name" : "Shop Shoes"
         }
-      },
+      ],
       "OurShop" : {
-        "Items" : {
-          "Item1" : {
+        "Items" : [
+          {
+            "id": "item1",
             "Button" : "READ OUR STORY",
             "Content" : "At Childrensalon, family always comes first. It inspires everything that we do.",
             "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Ficon-home.svg?alt=media&token=f5054733-4ef6-4444-9974-8344d4322e06",
             "Link" : "/"
           },
-          "Item2" : {
+          {
+            "id": "item2",
             "Button" : "Contact us",
             "Content" : "We provide the very best customer service, worldwide and in over 12 languages.",
             "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2FIcon-multilingual.svg?alt=media&token=4b796821-a4a5-47ff-aafa-044ce5399c82",
             "Link" : "/"
           },
-          "Item3" : {
+          {
+            "id": "item3",
             "Button" : "Our Designers",
             "Content" : "Shop the designers you know and love. Authenticity and quality are guaranteed.",
             "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Ficon-tag.svg?alt=media&token=b9a4a853-5365-4980-bd48-84ef802c875b",
             "Link" : "/"
           },
-          "Item4" : {
+          {
+            "id": "item4",
             "Button" : "Customer Review",
             "Content" : "Your feedback is important to us. We enjoy hearing from every one of you.",
             "Icon" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Ficon-star.svg?alt=media&token=a61db7f3-3d42-47bf-b6de-16158567f2a9",
             "Link" : "/"
           }
-        },
+        ],
         "Title" : "It's nice to meet you..."
       },
       "OurStories" : {
-        "Items" : {
-          "Item1" : {
+        "Items" : [
+          {
+            "id": "item1",
             "Button" : "Discover",
             "Content" : "Discover the latest title in our series where fun, facts and fiction come to life in the pages of our recommended reads.",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog1.webp?alt=media&token=96fd4782-81e7-4856-8c0a-0fa85b5b8e2b",
             "Link" : "/",
             "Title" : "OUR BOOK CORNER IS BACK"
           },
-          "Item2" : {
+          {
+            "id": "item2",
             "Button" : "Read more",
             "Content" : "Discover the benefits of baby bathtime, joined by a few companions from the Liewood collection.",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog2.webp?alt=media&token=c9c92dc0-2ce9-4b09-930d-7550b404f858",
             "Link" : "/",
             "Title" : "BABY BATHTIME WITH LIEWOOD"
           },
-          "Item3" : {
+          {
+            "id": "item3",
             "Button" : "Discover",
             "Content" : "From eggs to avocados, discover healthy snacks to fuel their minds and bodies for the new school year.",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog3.webp?alt=media&token=fef5d2f4-e3e5-44ff-8522-e2d922b3c292",
             "Link" : "/",
             "Title" : "SMART SNACKS FOR KIDS"
           },
-          "Item4" : {
+          {
+            "id": "item4",
             "Button" : "Read more",
             "Content" : "Find out what makes our new collection of baby clothing and accessories as kind as it is cute.",
             "Image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-reactjs-stella.appspot.com/o/Homepage%2Fblog4.webp?alt=media&token=b0c07377-b881-4995-b01d-1e18f2e4bdc3",
             "Link" : "/",
             "Title" : "CHILDRENSALON ESSENTIALS"
           }
-        },
+        ],
         "Title" : "Our Latest Stories"
       },
       "Slider" : [
@@ -206,23 +228,26 @@
         }
       ],
       "Testimonial" : {
-        "Items" : {
-          "Item1" : {
+        "Items" : [
+          {
+            "id": "item1",
             "Content" : "<div class=\"copy\"> <p>“</p><p>I just received the package thank you so much for tacking time out to reach out to me. And for the candy in the pockage. Your service is beyond my expectations. Thanks for your service.&nbsp;&nbsp;</p>”<p></p> </div>",
             "CustomerName" : "Stella",
             "Regional" : "United States"
           },
-          "Item2" : {
+          {
+            "id": "item2",
             "Content" : "“I was impressed with your customer service. I recently ordered on Sunday and received my order the next day! Super fast and the haribos were a nice touch.”",
             "CustomerName" : "Racher",
             "Regional" : "United Kingdom"
           },
-          "Item3" : {
+          {
+            "id": "item3",
             "Content" : "“Thank you very much and thanks to your great team of employees, one of the best online shops with communication between customers and employees. ”",
             "CustomerName" : "Evan",
             "Regional" : "Los angeles"
           }
-        },
+        ],
         "Title" : "We love hearing from you..."
       }
     }
